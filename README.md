@@ -36,8 +36,7 @@ Physics Ph.D. who decided academia was not my jam. Semi-retired, mass-producing 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrEntropy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=F8D866)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrEntropy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1D9E75)
+![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DrEntropy&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DrEntropy&theme=radical&hide_border=true&background=0D1117&stroke=1D9E75&ring=1D9E75&fire=F8D866&currStreakLabel=1D9E75)](https://streak-stats.demolab.com)
 
