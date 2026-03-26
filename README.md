@@ -19,14 +19,36 @@ Physics Ph.D. building simulation-driven insight tools.  Semi-retired, running t
 
 ## 🚀 Active Projects
 
-| Project | What it is |
-|---|---|
-| 📈 **[rationalpursuit.com](https://rationalpursuit.com)** | Data analytics consulting — mathematical modeling, Bayesian methods, and ML |
-| 🤖 **Agentic AI Workbench** | Claude Code, PydanticAI, OpenRouter — building agents that actually do things |
-| 🎛️ **Audio / DSP** | FM synths, parametric EQs, chorus effects in JUCE (C++) |
-| 🎲 **RPG & Worldbuilding** | Traveller, D&D, Pirate Borg, Dragonbane — player, sometimes GM, always rolling badly |
-| ♟️ **Chess** | [admiralentropy on Chess.com](https://chess.com/member/admiralentropy) — long time beginner, playing casually |
-| 📚 **Book Clubs** | Perpetual student — Bayesian stats, deep learning, R, causal inference |
+**📈 [rationalpursuit.com](https://rationalpursuit.com)** — Data analytics consulting: mathematical modeling, Bayesian methods, and ML
+
+**🤖 Agentic AI** — Claude Code, PydanticAI, OpenRouter — building agents that actually do things
+- [`IslandSim`](https://github.com/DrEntropy/IslandSim) — Agentic AI in a tabletop RPG setting — agents making decisions with limited information (WIP)
+- [`codecrafters-claude-code-python`](https://github.com/DrEntropy/codecrafters-claude-code-python) — Built my own Claude Code from the CodeCrafters challenge
+
+
+**📊 Bayesian & Simulation** — Where most of my notebooks live. There are many more, often private repos but this is just a small sample.  
+
+- [`DropoutBayes`](https://github.com/DrEntropy/DropoutBayes) — Dropout as a Bayesian approximation demo
+- [`multinom`](https://github.com/DrEntropy/multinom) — Experiments with multinomial regression in PyMC
+- [`SimpleDiffusion`](https://github.com/DrEntropy/SimpleDiffusion) — Diffusion models / reverse SDE
+- [`lunarlander`](https://github.com/DrEntropy/lunarlander) — Policy gradient RL for Lunar Lander in PyTorch — it mostly lands
+
+
+**🎛️ Audio / DSP** — JUCE (C++) synths and effects
+- [`FMFun`](https://github.com/DrEntropy/FMFun) — FM (phase modulation) synthesizer
+- [`ParametricEQ`](https://github.com/DrEntropy/ParametricEQ) — Parametric EQ plugin (from Programming for Musicians course)
+- [`JuceChorus`](https://github.com/DrEntropy/JuceChorus) — Chorus effect from a Kadenze course
+
+**🔧 Deep Cuts** — Things I built because I wanted to understand how they work
+- [`EOPLInterp`](https://github.com/DrEntropy/EOPLInterp) — C++ interpreter from *Essentials of Programming Languages*
+- [`ToySOCCore`](https://github.com/DrEntropy/ToySOCCore) — The TOY computer from Sedgewick & Wayne, implemented in VHDL
+- [`nexttoken`](https://github.com/DrEntropy/nexttoken) — Interactive next-token prediction visualizer (Hugging Face). "Vibe coded" using Claude.
+
+**🎲 RPG & Worldbuilding** — Traveller, D&D, Pirate Borg, Dragonbane — player, sometimes GM, always rolling badly
+
+**♟️ Chess** — [admiralentropy on Chess.com](https://chess.com/member/admiralentropy) — long time beginner, playing casually
+
+**📚 Book Clubs** — Perpetual student — Bayesian stats, deep learning, R, causal inference
 
 ---
 
