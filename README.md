@@ -6,9 +6,16 @@
 
 ## 🧠 About Me
 
-Physics Ph.D. who decided academia was not my jam. Semi-retired, mass-producing side projects. M-shaped mind — knows a little about a lot, a lot about a few things, and is perpetually in the middle of learning something new. I update my priors, rarely reach convergence, and finish projects approximately as often as a Markov chain visits any given state.
-
+Physics Ph.D. building simulation-driven insight tools.  Semi-retired, running too many experiments in parallel and updating my priors accordingly. I specialize in Bayesian modeling, simulations, ML , and decision systems under uncertainty. 
 ---
+
+## Flagship Themes
+
+- 📊 Bayesian inference in complex systems  
+- 🧠 Simulation models for understanding and decision-making  
+- 🤖 Agentic AI systems (tools that actually act)  
+- 🔁 Simulation as a thinking tool, not just prediction
+--
 
 ## 🚀 Active Projects
 
@@ -21,6 +28,12 @@ Physics Ph.D. who decided academia was not my jam. Semi-retired, mass-producing 
 | ♟️ **Chess** | [admiralentropy on Chess.com](https://chess.com/member/admiralentropy) — long time beginner, playing casually |
 | 📚 **Book Clubs** | Perpetual student — Bayesian stats, deep learning, R, causal inference |
 
+---
+
+## Currently Thinking About
+
+- How agentic systems change software development
+- Simulation vs inference: where is the boundary?
 ---
 
 ## 🧰 Tools & Toys
