@@ -26,7 +26,7 @@ Physics Ph.D. building simulation-driven insight tools.  Semi-retired, running t
 - [`codecrafters-claude-code-python`](https://github.com/DrEntropy/codecrafters-claude-code-python) — Built my own Claude Code from the CodeCrafters challenge
 
 
-**📊 Bayesian & Simulation** — Where most of my notebooks live. There are many more, often private repos but this is just a small sample.  
+**📊 Bayesian & Simulation** — A few public notebooks from a much larger iceberg of private experiments.
 
 - [`DropoutBayes`](https://github.com/DrEntropy/DropoutBayes) — Dropout as a Bayesian approximation demo
 - [`multinom`](https://github.com/DrEntropy/multinom) — Experiments with multinomial regression in PyMC
