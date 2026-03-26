@@ -6,16 +6,9 @@
 
 ## 🧠 About Me
 
-Physics Ph.D. building simulation-driven insight tools.  Semi-retired, running too many experiments in parallel and updating my priors accordingly. I specialize in Bayesian modeling, simulations, ML , and decision systems under uncertainty. 
+Physics Ph.D. building simulation-driven insight tools. Semi-retired, running too many experiments in parallel and updating my priors accordingly. I specialize in Bayesian modeling, ML, and simulation as a tool for understanding and decision-making under uncertainty. Lately thinking about how agentic systems change software development, and where the boundary between simulation and inference really is.
+
 ---
-
-## Flagship Themes
-
-- 📊 Bayesian inference in complex systems  
-- 🧠 Simulation models for understanding and decision-making  
-- 🤖 Agentic AI systems (tools that actually act)  
-- 🔁 Simulation as a thinking tool, not just prediction
---
 
 ## 🚀 Active Projects
 
@@ -45,12 +38,6 @@ Things I built because I wanted to know how they actually work.
 - [`ToySOCCore`](https://github.com/DrEntropy/ToySOCCore) — The TOY computer from Sedgewick & Wayne, implemented in VHDL
 - [`nexttoken`](https://github.com/DrEntropy/nexttoken) — Interactive next-token prediction visualizer (Hugging Face). "Vibe coded" using Claude.
 
----
-
-## Currently Thinking About
-
-- How agentic systems change software development
-- Simulation vs inference: where is the boundary?
 ---
 
 ## 🧰 Tools & Toys
