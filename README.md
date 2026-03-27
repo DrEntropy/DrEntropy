@@ -17,7 +17,7 @@ import pymc as pm
 
 coords = {
     "interest": [
-        "Bayesian Modeling", "Machine Learning", "Simulation",
+        "Bayesian Modeling", "Machine Learning", "Simulation", "Computer Science/Type Theory",
         "Gaming", "Music", "Learning New Things"
     ],
 }
@@ -25,14 +25,14 @@ coords = {
 with pm.Model(coords=coords) as ron:
     # Priors
     hours_in_rabbit_hole = pm.Exponential("hours_in_rabbit_hole", lam=0.1)
-    time_allocation = pm.Dirichlet("time_allocation", a=[5, 4, 3, 3, 1, 2], dims="interest")
+    time_allocation = pm.Dirichlet("time_allocation", a=[5, 4, 3, 3, 2, 1, 2], dims="interest")
 
     # What am I working on today?
     current_obsession = pm.Categorical("current_obsession", p=time_allocation)
 
     # Likelihood — projects per interest
     fun = pm.Deterministic("fun", hours_in_rabbit_hole * time_allocation, dims="interest")
-    projects = pm.Poisson("projects", mu=fun, observed=[15, 8, 6, 4, 1, 3], dims="interest")
+    projects = pm.Poisson("projects", mu=fun, observed=[15, 8, 6, 4, 1, 3, 8], dims="interest")
 
     idata = pm.sample()  
 ```
