@@ -10,6 +10,36 @@ Physics Ph.D. building simulation-driven insight tools. Semi-retired, running to
 
 ---
 
+## 🎲 Bayesian Self-Portrait
+
+```python
+import pymc as pm
+import numpy as np
+
+coords = {
+    "interest": [
+        "Bayesian Modeling", "Machine Learning", "Simulation",
+        "RPGs", "Chess", "Learning New Things"
+    ],
+}
+
+with pm.Model(coords=coords) as ron:
+    # Priors
+    hours_in_rabbit_hole = pm.Exponential("hours_in_rabbit_hole", lam=0.1)
+    time_allocation = pm.Dirichlet("time_allocation", a=[5, 4, 3, 3, 1, 2], dims="interest")
+
+    # What am I working on today?
+    current_obsession = pm.Categorical("current_obsession", p=time_allocation)
+
+    # Likelihood — projects per interest
+    fun = pm.Deterministic("fun", hours_in_rabbit_hole * time_allocation, dims="interest")
+    projects = pm.Poisson("projects", mu=fun, observed=[15, 8, 6, 4, 1, 3], dims="interest")
+
+    idata = pm.sample()  
+```
+
+---
+
 ## 🚀 Active Projects
 
 **📈 [rationalpursuit.com](https://rationalpursuit.com)** — Data analytics consulting: mathematical modeling, Bayesian methods, and ML
@@ -25,7 +55,7 @@ Physics Ph.D. building simulation-driven insight tools. Semi-retired, running to
 
 **♟️ Chess** — [admiralentropy on Chess.com](https://chess.com/member/admiralentropy) — long time beginner, playing casually
 
-**📚 Book Clubs** — Perpetual student — Bayesian stats, deep learning, R, causal inference
+**📚 Reading** — Perpetual student — Bayesian stats, deep learning, R, causal inference
 
 ---
 
