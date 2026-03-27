@@ -14,7 +14,6 @@ Physics Ph.D. building simulation-driven insight tools. Semi-retired, running to
 
 ```python
 import pymc as pm
-import numpy as np
 
 coords = {
     "interest": [
