@@ -18,7 +18,7 @@ import pymc as pm
 coords = {
     "interest": [
         "Bayesian Modeling", "Machine Learning", "Simulation",
-        "RPGs", "Chess", "Learning New Things"
+        "Gaming", "Music", "Learning New Things"
     ],
 }
 
