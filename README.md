@@ -52,9 +52,11 @@ with pm.Model(coords=coords) as ron:
 
 **🎲 RPG & Worldbuilding** — Traveller, D&D, Pirate Borg, Dragonbane — player, sometimes GM, always rolling badly
 
-**♟️ Chess** — [admiralentropy on Chess.com](https://chess.com/member/admiralentropy) — long time beginner, playing casually
+**♟️ Chess** — [admiralentropy on Chess.com](https://chess.com/member/admiralentropy) — studying openings, tactics, and classic games. One blunder at a time.
 
-**📚 Reading** — Perpetual student — Bayesian stats, deep learning, R, causal inference
+**🎸 Guitar** — Staring to learn .. again. — building a repertoire, one song at a time
+
+**📚 Reading** — Perpetual student — Bayesian stats, deep learning, agentic AI, and whatever rabbit hole is next
 
 ---
 
@@ -75,8 +77,11 @@ Things I built because I wanted to know how they actually work.
 ![PyMC](https://img.shields.io/badge/PyMC-Bayesian-1D9E75?style=for-the-badge)
 ![Stan](https://img.shields.io/badge/Stan-B2171D?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_Code-Anthropic-D4537E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JUCE](https://img.shields.io/badge/JUCE-8DC63F?style=for-the-badge)
+![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
 
 ---
 
